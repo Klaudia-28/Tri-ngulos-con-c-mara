@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Elementos de la solución/">
+    <File Path="Libraries/include/glad/glad.h" />
+  </Folder>
+  <Project Path="Triangulo3D.vcxproj" Id="78bf5ecd-fd02-4316-9636-6b2ad843fec1" />
+</Solution>
